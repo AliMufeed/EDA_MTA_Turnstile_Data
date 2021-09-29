@@ -1,2 +1,2 @@
 # project1
-The material for the first project
+The materials for the first project
