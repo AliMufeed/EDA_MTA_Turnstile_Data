@@ -9,4 +9,4 @@ To start exploring this goal, I have chosen a turnstile in the most crowded stat
 
 The figure above has three plots with different colors, each plot represents a year starting from 2016 to 2018. we can notice that each plot has 2 days where the number of entries drops sharply, after checking these dates they were weekends.
 
-the result suggests that the maintenance for the turnstile N067/R012/00-00-00/34 ST-PENN STA should be in the first weekend of oct 2019, because it has the lowest number of people who use it.
+The result suggests that the maintenance for the turnstile N067/R012/00-00-00/34 ST-PENN STA should be in the first weekend of oct 2019, because it has the lowest number of people who use it.
